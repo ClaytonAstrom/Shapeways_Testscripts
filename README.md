@@ -23,9 +23,10 @@ Each test was performed with Chrome and Firefox
 
 Setup:
 	The environment was Windows 7, 64bit with Python 3.4.2.  Extra libraries are unittest 2 and selenium webdriver.  The can be acquired with the following pip commands:
-pip install selenium
-pip install unittest2
-pip install unittest-xml-reporting
+	
+	pip install selenium
+	pip install unittest2
+	pip install unittest-xml-reporting
 
   The script itself can be run with python main.py
 
