@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" name="tapHandle_Tests-20150131012953" tests="2" time="36.650">
+	<properties/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+	<testcase classname="tapHandle_Tests" name="test_privateMessage_Chrome" time="9.207"/>
+	<testcase classname="tapHandle_Tests" name="test_privateMessage_Firefox" time="27.444"/>
+</testsuite>

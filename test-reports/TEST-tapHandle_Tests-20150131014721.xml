@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" name="tapHandle_Tests-20150131014721" tests="6" time="98.379">
+	<properties/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+	<testcase classname="tapHandle_Tests" name="test_checkOut_Chrome" time="8.847"/>
+	<testcase classname="tapHandle_Tests" name="test_checkOut_Firefox" time="16.445"/>
+	<testcase classname="tapHandle_Tests" name="test_privateMessage_Chrome" time="19.186"/>
+	<testcase classname="tapHandle_Tests" name="test_publicComment_Chrome" time="13.339"/>
+	<testcase classname="tapHandle_Tests" name="test_publicComment_Firefox" time="17.676"/>
+	<testcase classname="tapHandle_Tests" name="test_privateMessage_Firefox" time="22.886">
+		<failure message="'false' is not false" type="AssertionError">
+<![CDATA[Traceback (most recent call last):
+  File "main.py", line 52, in test_privateMessage_Firefox
+    self.assertFalse(seller_Interact.writePM(driver, user, 1))
+AssertionError: 'false' is not false
+]]>		</failure>
+	</testcase>
+</testsuite>
