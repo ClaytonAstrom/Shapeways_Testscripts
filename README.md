@@ -3,6 +3,7 @@ Project:
 
 Functions:  
   Interact with most of the mechanics:
+  
     Logging in
     Creating an account
     Placing items and removing them from cart
@@ -14,6 +15,7 @@ Functions:
 
 Tests:  
   As a signed on, verified user, these are the currently included unit tests:
+  
     Add an item to cart and remove it
     Write a private message to the seller with a picture attached
     Post a comment with a picture attached
